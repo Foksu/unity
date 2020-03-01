@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 
 /// <summary>
-/// Implementation of greedy best first search algorithm. It isn't used anywhere in the project, I just wanted to try it out.
+/// Implementation of greedy best first search algorithm.
 /// </summary>
 class GreedyBestFirstSearch : IPathfinding
 {
